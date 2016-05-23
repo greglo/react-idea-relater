@@ -6,3 +6,17 @@ li.suggestion:hover {
   background-color: gray;
   cursor:pointer;
 }
+
+.game-board {
+  width:100px;
+  height:100px;
+}
+.cell {
+  border:1px solid gray;
+  background-color: white;
+  margin: 0px;
+
+  width:30px;
+  height:30px;
+  float: left;
+}
